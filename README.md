@@ -1,11 +1,14 @@
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8C67DB&center=false&vCenter=true&random=false&width=524&lines=Olá, eu sou a Vitória" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8C67DB&center=false&vCenter=true&random=false&width=524&lines=Olá, eu sou a Vitória..." alt="Typing SVG">
   </a>
 </div>
 
-- Hoje sou estudante de ciência da computação
-- Estudando HTML, CSS e Javascript
+<p>
+  Sou estudante de ciência da computação da Universidade Católica de Pernambuco (UNICAP) e me interesso tanto pelo front-end quanto pelo back-end. Hoje em dia eu programo em Java e JavaScript, e aprendendo React Native. Estou sempre me desafiando com novos projetos e buscando feedback na comunidade de programação.
+</p>
+
+#
 
 [![vitoria74's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoria74&count_private=true&show_icons=true&theme=aura&icon_color=FF00FF&include_all_commits=true)](https://github.com/vitoria74/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria74&layout=donut&theme=aura)](https://github.com/vitoria74/github-readme-stats)
