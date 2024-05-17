@@ -5,7 +5,7 @@
 </div>
 
 <p>
-  Sou estudante de ciência da computação da Universidade Católica de Pernambuco (UNICAP) e me interesso tanto pelo front-end quanto pelo back-end. Hoje em dia eu programo em Java e JavaScript, e aprendendo React Native. Estou sempre me desafiando com novos projetos e buscando feedback na comunidade de programação.
+  Sou estudante de ciência da computação da Universidade Católica de Pernambuco (UNICAP) e me interesso tanto pelo front-end quanto pelo back-end. Hoje em dia eu programo em Java e JavaScript, e estou aprendendo React Native. Estou sempre me desafiando com novos projetos e buscando feedback na comunidade de programação.
 </p>
 
 #
