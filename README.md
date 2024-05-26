@@ -11,10 +11,10 @@
 #
 
 <div>
+    <img align="right" alt="" height="190px" src="./GIF/OIP.jfif">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=100&color=8C67DB&center=false&vCenter=true&random=false&width=524&lines=Meu Portfólio" alt="Typing SVG">
   </a>
-  <img align="right" alt="" height="190px" src="./GIF/OIP.jfif">
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitoria74&repo=vitoria-moura-paiva-portfolio&theme=aura&icon_color=FF00FF&border_color=8C67DB)](https://github.com/vitoria74/vitoria-moura-paiva-portfolio)
