@@ -25,11 +25,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=100&color=8C67DB&center=false&vCenter=true&random=false&width=524&lines=Minhas estatísticas<div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=100&color=8C67DB&center=false&vCenter=true&random=false&width=524&lines=Olá, eu sou a Vitória+%F0%9F%91%8B" alt="Typing SVG">
   </a>
-</div>" alt="Typing SVG">
-  </a>
-</div>
+
 
 [![vitoria74's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoria74&count_private=true&show_icons=true&theme=aura&icon_color=FF00FF&include_all_commits=true&border_color=8C67DB&line_height=28)](https://github.com/vitoria74/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria74&theme=aura&border_color=8C67DB&layout=donut)](https://github.com/vitoria74/github-readme-stats)
