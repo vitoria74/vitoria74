@@ -17,7 +17,7 @@
 
 <p>Caso queira saber um pouco mais sobre mim...</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitoria74&show_owner=vitoria74&repo=vitoria-moura-paiva-portfolio)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitoria74&repo=vitoria-moura-paiva-portfolio&theme=aura&icon_color=FF00FF&border_color=8C67DB)](https://github.com/vitoria74/vitoria-moura-paiva-portfolio)
 
 #
 
