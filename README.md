@@ -9,13 +9,14 @@
 </p>
 
 #
+
+<img align="right" alt="" height="190px" src="./GIF/OIP.jfif">
+
 <div>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=100&color=8C67DB&center=false&vCenter=true&random=false&width=524&lines=Meu Portfólio" alt="Typing SVG">
   </a>
 </div>
-
-<p>Caso queira saber um pouco mais sobre mim...</p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitoria74&repo=vitoria-moura-paiva-portfolio&theme=aura&icon_color=FF00FF&border_color=8C67DB)](https://github.com/vitoria74/vitoria-moura-paiva-portfolio)
 
@@ -23,9 +24,9 @@
 
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=100&color=8C67DB&center=false&vCenter=true&random=false&width=524&lines=Minhas estatísticas<div>
-  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=100&color=8C67DB&center=false&vCenter=true&random=false&width=524&lines=Minhas estatísticas">
   </a>
+</div>
 
 
 [![vitoria74's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoria74&count_private=true&show_icons=true&theme=aura&icon_color=FF00FF&include_all_commits=true&border_color=8C67DB&line_height=28)](https://github.com/vitoria74/github-readme-stats)
