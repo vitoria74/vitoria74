@@ -11,9 +11,8 @@
 #
 
 <div>
-    <img align="right" alt="" height="190px" src="./GIF/OIP.jfif">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=100&color=8C67DB&center=false&vCenter=true&random=false&width=524&lines=Meu Portfólio" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&color=8C67DB&center=false&vCenter=true&random=false&width=524&lines=Meu Portfólio" alt="Typing SVG">
   </a>
 </div>
 
