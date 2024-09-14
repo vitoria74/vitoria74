@@ -10,16 +10,6 @@
 
 #
 
-<div>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&color=8C67DB&center=false&vCenter=true&random=false&width=524&lines=Meu Portfólio" alt="Typing SVG">
-  </a>
-</div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitoria74&repo=vitoria-moura-paiva-portfolio&theme=aura&icon_color=FF00FF&border_color=8C67DB)](https://github.com/vitoria74/vitoria-moura-paiva-portfolio)
-
-#
-
 <div style="display: inline_block"><br>
   <img align="center" alt="vitoria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vitoria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
