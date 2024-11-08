@@ -5,7 +5,7 @@
 </div>
 
 <p>
-    Estudante de Ciência da Computação na UNICAP
+    Estudante de Ciência da Computação apaixonada por front-end e hardware. Além de codar, também sou fã de jogos, animes, filmes, séries, música e de praticar esportes.
 </p>
 
 #
