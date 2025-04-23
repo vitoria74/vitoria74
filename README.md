@@ -5,7 +5,7 @@
 </div>
 
 <p>
-    Estudante de Ciência da Computação apaixonada por desenvolvimento front-end e hardware. Atualemente estou estagiando em infraestrutura na Universidade Católica de Pernambuco. Além de codar, também sou fã de jogos, animes, filmes, séries, música e de praticar esportes.
+    Estudante de Ciência da Computação apaixonada por desenvolvimento front-end e redes. Além de codar, também sou fã de jogos, animes, filmes, séries, música e de praticar esportes.
 </p>
 
 #
