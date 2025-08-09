@@ -5,7 +5,7 @@
 </div>
 
 <p>
-    Estudante de Ciência da Computação apaixonada por desenvolvimento front-end e redes. Além de codar, também sou fã de jogos, animes, filmes, séries, música e de praticar esportes.
+    Estudante de Ciência da Computação apaixonada por desenvolvimento front-end e redes. Também sou fã de jogos, animes, filmes, séries, música e de praticar esportes.
 </p>
 
 #
@@ -15,8 +15,6 @@
   <img align="center" alt="vitoria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="vitoria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="vitoria-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="vitoria-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="vitoria-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
 </div>
 
