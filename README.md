@@ -4,19 +4,10 @@
   </a>
 </div>
 
-<p>
-    Estudante de Ciência da Computação apaixonada por desenvolvimento front-end e redes. Também sou fã de jogos, animes, filmes, séries, música e de praticar esportes.
-</p>
+- Estudante de ciência da computação com foco em redes e infraestrutura :globe_with_meridians:
+- Sou fã de jogos, animes, séries, filmes, música e de praticar esportes :volleyball:
 
 #
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="vitoria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="vitoria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="vitoria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="vitoria-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
-</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitoria74/vitoria74/output/github-contribution-grid-snake-dark.svg">
